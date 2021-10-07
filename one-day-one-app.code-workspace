@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "name": "first-app",
+      "path": "./first-app"
+    },
+    {
+      "name": "foot",
+      "path": "."
+    }
+  ],
+  "settings": {
+  }
+}
