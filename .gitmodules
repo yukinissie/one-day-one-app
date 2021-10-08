@@ -1,3 +1,6 @@
 [submodule "first-app"]
 	path = first-app
 	url = git@github.com:yukinissie/first-app.git
+[submodule "amplify-next-ts-isr-template"]
+	path = amplify-next-ts-isr-template
+	url = git@github.com:yukinissie/amplify-next-ts-isr-template.git

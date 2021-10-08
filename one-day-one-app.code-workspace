@@ -1,12 +1,16 @@
 {
   "folders": [
     {
+      "name": "foot",
+      "path": "."
+    },
+    {
       "name": "first-app",
       "path": "./first-app"
     },
     {
-      "name": "foot",
-      "path": "."
+      "name": "amplify-next-ts-isr-template",
+      "path": "./amplify-next-ts-isr-template"
     }
   ],
   "settings": {
